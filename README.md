@@ -18,7 +18,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/asianChigga/Zip-code-Locater.git
+    git clone https://github.com/asianChigga/social.git
     ```
 
 2. Navigate to the project directory:
